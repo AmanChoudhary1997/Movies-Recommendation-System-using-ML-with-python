@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/8451a100-323e-4813-b3d4-418644925725)
+
 # 🎬 Movie Recommendation System
 
 ## 📌 Project Overview
@@ -33,8 +35,6 @@ Streaming services and OTT platforms use recommendation systems to:
 
 ---
 
-## 📊 Workflow
-![Workflow](workflow.png)
 
 ### Steps:
 1. **Data Collection**
